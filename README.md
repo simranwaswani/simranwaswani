@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @simranwaswani
-Web Developer
+                                                   👋 Hi, I’m @simranwaswani
+                                                       computer scientist| Full Stack Developer
 - 👀 I’m interested in Full Stack Deveople, MERN Stack
      
 - 🌱 I’m currently learning Node js, ,React js, MERN Stack
