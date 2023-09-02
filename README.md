@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @simranwaswani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Web Developer
+- 👀 I’m interested in Full Stack Deveople, MERN Stack
+     
+- 🌱 I’m currently learning Node js, ,React js, MERN Stack
+  
+- 💞️ I’m looking to collaborate on Full Stack Developer
+  
+- 🤝 I’m looking for help with My Portfolio
+  
+-👨‍💻 All of my projects are available at 
 
-<!---
-simranwaswani/simranwaswani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-📫 How to reach me simwni14@gmail.com
+
+Connect with me:
+Languages and Tools:
+android c cplusplus css3 html5 java javascript mongodb mysql nodejs oracle pandas python react scikit_learn
+
